@@ -116,7 +116,7 @@ def keep_alive():
 # ================================
 # 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
 # ================================
-TOKEN = os.environ.get("BOT_TOKEN", "9052540955:AAF3I-2dP5rYYgZn7k7gk7lTc6W2eQ-suHo").strip()
+TOKEN = os.environ.get("BOT_TOKEN", "9256431184:AAGjF74aX9ufcrpmrTvdqnfpXUDhs5b-qBc").strip()
 if not TOKEN:
     raise RuntimeError("BOT_TOKEN environment variable is missing. Add your Telegram bot token in hosting Variables.")
 OWNER_ID = 8848159805
